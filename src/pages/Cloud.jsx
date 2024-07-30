@@ -4,37 +4,39 @@ import FsdCards from "../components/FsdCards";
 function Cloud() {
   const data = [
     {
-      title:
-        "Best 15 Product-based Companies for IoT Solutions Architects in India",
-      text: "By Lukesh S",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Product-based-Companies-for-IoT-Solutions-Architects-in-India-01.jpg",
-    },
-    {
       title: "Amazon Web Services (AWS) – Beginners’ Guide",
       text: "By Meghana D",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2024/06/315_181.png",
+      img: "/cloud1.jpg",
     },
     {
       title: "Effective Cloud Computing Career Roadmap 2024",
       text: "By Isha Sharma",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Feature-image-Effective-Cloud-Computing-Career-Roadmap.webp",
+      img: "/cloud2.webp",
     },
 
     {
       title:
         "Best 15 Product-based Companies for IoT Solutions Architects in India",
       text: "By Lukesh S",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Product-based-Companies-for-IoT-Solutions-Architects-in-India-01.jpg",
+      img: "/cloud3.webp",
     },
+
     {
       title: "Amazon Web Services (AWS) – Beginners’ Guide",
       text: "By Meghana D",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2024/06/315_181.png",
+      img: "/cloud1.jpg",
     },
     {
       title: "Effective Cloud Computing Career Roadmap 2024",
       text: "By Isha Sharma",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Feature-image-Effective-Cloud-Computing-Career-Roadmap.webp",
+      img: "/cloud2.webp",
+    },
+
+    {
+      title:
+        "Best 15 Product-based Companies for IoT Solutions Architects in India",
+      text: "By Lukesh S",
+      img: "/cloud3.webp",
     },
   ];
   return (

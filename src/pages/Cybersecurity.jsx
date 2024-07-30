@@ -7,33 +7,34 @@ function Cybersecurity() {
       title:
         "What is Cybersecurity? Importance & the growing challenges in 2023!",
       text: "By Lukesh S",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+      img: "/cybersecuity-.gif",
     },
     {
       title: "8 Different Types of Cybersecurity and Threats Involved",
       text: "By Meghana D",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png",
+      img: "8bfd01c18be1b5059bc0d7770d9dabf1.webp",
     },
     {
       title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
       text: "By Isha Sharma",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
+      img: "cyber-2.webp",
     },
+
     {
       title:
         "What is Cybersecurity? Importance & the growing challenges in 2023!",
       text: "By Lukesh S",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+      img: "/cybersecuity-.gif",
     },
     {
       title: "8 Different Types of Cybersecurity and Threats Involved",
       text: "By Meghana D",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png",
+      img: "8bfd01c18be1b5059bc0d7770d9dabf1.webp",
     },
     {
       title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
       text: "By Isha Sharma",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
+      img: "cyber-2.webp",
     },
   ];
   return (
